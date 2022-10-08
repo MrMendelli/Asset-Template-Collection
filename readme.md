@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a collection of asset templates I have made for personal use and have decided to make public. Not all available platforms or planned templates are included. This is due to them being incomplete or that I have not started them. Origin templates were planned, but canceled as it is being replaced with the EA app.
+This is a collection of asset templates I have made for personal use and have decided to make public. Not all available platforms or planned templates are included. This is due to them being incomplete or that I have not started them. Origin templates were planned, but canceled as it is being replaced with the EA app. These were made for the [SteamGridDB](https://www.steamgriddb.com) community, but anyone is welcome to them.
 
 ## Disclaimer
 
