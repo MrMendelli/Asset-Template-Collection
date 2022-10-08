@@ -10,5 +10,3 @@ My workflow is done primarily in [Affinity Photo](https://affinity.serif.com/en-
 
 ## Use
 Each folder will contain a separate readme that explains the specific use-case for documents in that same folder, though these should be easy enough to repurpose for any needs.
-
-<sup>Reading this in Notepad? Try [Typora](https://typora.io/).</sup>
